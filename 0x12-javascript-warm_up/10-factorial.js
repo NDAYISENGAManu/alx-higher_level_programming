@@ -1,4 +1,4 @@
-#!/home/endayisenga@bktechouse.net/.nvm/versions/node/v16.19.1/bin/node
+#!/usr/bin/node
 
 function factorial (n) {
   return n === 0 || isNaN(n) ? 1 : n * factorial(n - 1);

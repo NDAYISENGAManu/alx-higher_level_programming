@@ -1,4 +1,4 @@
-#!/home/endayisenga@bktechouse.net/.nvm/versions/node/v16.19.1/bin/node
+#!/usr/bin/node
 
 const size = Math.floor(Number(process.argv[2]));
 if (isNaN(size)) {
